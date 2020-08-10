@@ -1,0 +1,33 @@
+rows: 3
+cols: 5
+
+PLANT (0,0) iris
+PLANT (0,1) oak 
+PLANT (0,2) garlic
+PLANT (0,3) lily
+PLANT (0,4) willow
+PLANT (1,0) zucchini
+PLANT (1,1) rose
+PLANT (1,2) banana
+PLANT (1,3) tomato
+PLANT (1,4) daisy
+PLANT (2,0) coconut
+PLANT (2,1) yam
+PLANT (2,2) tulip
+PLANT (2,3) pine
+PLANT (2,4) lettuce
+print
+grow 1
+print
+grow 1
+print
+pick (0,0)
+cut (2,0)
+harvest (1,0)
+print
+harvest garlic
+cut banana
+pick tulip
+print
+grow 2
+print
