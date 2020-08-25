@@ -16,6 +16,15 @@ OOP can be fully utilized.
 # Inheritance Diagram for garden simulator
 ![inheritance-diagram](https://user-images.githubusercontent.com/51266998/91128433-1365b100-e65d-11ea-90b2-e6d5efb4c357.JPG)
 
+# How it works
+As in the inheritance diagram, the garden has three types of seeds include **Flower, Tree,** and **Vegetable**. Each type of seed has its own feature. For example, flowers will automatically be planted in the middle of the plot, tree will be planted under the bottom, and vegetable will be planted op top of the plot as the following (each plot is a 9x9 ground):  
+![m_merged (1)](https://user-images.githubusercontent.com/51266998/91140499-8292d380-e664-11ea-8634-a2ca6891c932.png)  
+The following image illustrates how plants growing once:  
+![grow_once](https://user-images.githubusercontent.com/51266998/91142037-ff25b200-e664-11ea-9b5b-619544025361.JPG)  
+and how plants growing many times:  
+![grow_many](https://user-images.githubusercontent.com/51266998/91142086-11075500-e665-11ea-8cf7-76a7e71b119d.JPG)  
+*Note: plant's name is represented by its first letter.  
+
 # Commands
 - **PLANT**  
 Example: PLANT (0,0) rose
