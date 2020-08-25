@@ -1,5 +1,5 @@
 # Garden_Simulator_OOP
-A Java garden simulator program interface
+A Java garden simulator program interface which based heavily on Object-Oriented-Programming.
 
 This program stimulates a garden. The gardeners can perform many actions
 on their garden such as: plant, grow, pick(flower), cut(tree),
