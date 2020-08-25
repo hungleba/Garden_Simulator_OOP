@@ -13,4 +13,6 @@ class has-a "Flower", "Tree", or "Vegetable" class. It also has the is-a
 relationship with "Garden" class to make sure the inheritance feature in
 OOP can be fully utilized.
 
-Here's a link to my inheritance diagram design: https://bit.ly/33MWtxu
+# Inheritance Diagram for garden simulator
+![inheritance-diagram](https://user-images.githubusercontent.com/51266998/91128433-1365b100-e65d-11ea-90b2-e6d5efb4c357.JPG)
+
